@@ -5,9 +5,9 @@ chattybot is a python program that allows you to talk and listen to an LLM such 
 
 ## It is composed of following stages:
 
-audio capture - using speech recognition
-speech to text - using OpenAI's Whisper or Google Cloud
-LLM - using ChatGPT, streaming to reduce latency
+audio capture - using speech recognition\
+speech to text - using OpenAI's Whisper or Google Cloud\
+LLM - using ChatGPT, streaming to reduce latency\
 text to speech - using pyttsx (offline) or google tts (online)
 
 ## Issues or improvements
