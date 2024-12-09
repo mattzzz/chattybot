@@ -8,6 +8,7 @@ Install:
 
 don't forget to set env var for OpenAI key: 
     export OPENAI_API_KEY=""
+    
 """
 import logging
 import io
